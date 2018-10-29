@@ -11,4 +11,7 @@ public class Main {
     public static void masterBranch(){
         System.out.println("master branch master分支中的内容更改");
     }
+    public static void devBranch(){
+        System.out.println("在dev分支中做的修改 修改后提交");
+    }
 }
