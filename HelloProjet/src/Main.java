@@ -8,4 +8,7 @@ public class Main {
         System.out.println("修改和添加到本地仓库后 推送到github远程仓库中");
         System.out.println("clone下来的工程 可以直接push到远程仓库中相当于同步 不过要用https协议的才行");
     }
+    public static void devBranch(){
+        System.out.println("在dev分支中做的修改 修改后提交");
+    }
 }
