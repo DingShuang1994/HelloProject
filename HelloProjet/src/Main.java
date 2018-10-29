@@ -6,5 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("修改和添加到本地仓库后 推送到github远程仓库中");
+        System.out.println("clone下来的工程 可以直接push到远程仓库中相当于同步 不过要用https协议的才行");
     }
 }
